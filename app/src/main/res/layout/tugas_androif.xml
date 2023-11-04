@@ -46,7 +46,7 @@
         android:id="@+id/imageView10"
         android:layout_below="@id/kamar"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="20dp"
         android:layout_width="199dp"
         android:layout_height="199dp"
         android:src="@drawable/ls" />
@@ -57,7 +57,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/imageView10"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="-130dp"
+        android:layout_marginTop="10dp"
         android:text="Kurnia Raihan Ardian (owner)"
         android:textColor="@color/black"
         android:textSize="20dp" />
